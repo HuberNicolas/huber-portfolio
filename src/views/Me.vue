@@ -2,7 +2,7 @@
   <div>Me</div>
   <div class="avatar">
     <!-- Avatar -->
-    <img class="avatar__image" src="../assets/profile.jpg" />
+    <img class="avatar__image" src="../assets/profile.jpg"  alt="Avatar of Nicolas Huber"/>
   </div>
   <div class="card">
     <!-- Cover -->
