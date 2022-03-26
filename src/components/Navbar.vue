@@ -8,6 +8,8 @@
     <li><router-link to="/bucket-list">Bucket List</router-link></li>
     <li><div class="separator">/</div></li>
     <li><router-link to="/cv">CV</router-link></li>
+    <li><div class="separator">/</div></li>
+    <li><router-link to="/contact">Contact</router-link></li>
 
     <!-- Navigation item that sticks to the right -->
     <li class="container__item--right">
