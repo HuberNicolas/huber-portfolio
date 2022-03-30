@@ -8,6 +8,7 @@ import Me from "./views/Me.vue";
 import Skills from "./views/Skills.vue";
 import BucketList from "./views/BucketList.vue";
 import Contact from "./views/Contact.vue";
+import Tailwind from "./views/Tailwind.vue";
 
 const router = createRouter({
     history: createWebHistory(),
@@ -18,6 +19,7 @@ const router = createRouter({
         {path: '/skills', name: 'Skills', component: Skills},
         {path: '/bucket-list', name: 'BucketList', component: BucketList},
         {path: '/contact', name: 'Contact', component: Contact},
+        {path: '/tailwind', name: 'tailwind', component: Tailwind},
     ]
 })
 
